@@ -70,6 +70,7 @@ body {
     justify-content: flex-end;
     flex: 2;
     font-size: 70px;
+    overflow: hidden;
 }
 
 .button-container {
